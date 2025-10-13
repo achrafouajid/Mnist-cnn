@@ -1,0 +1,21 @@
+{
+  "input_shape": [
+    28,
+    28,
+    1
+  ],
+  "output_shape": [
+    10
+  ],
+  "framework": "tensorflow/keras",
+  "model_type": "sequential",
+  "preprocessing": {
+    "normalize": "divide by 255",
+    "resize": [
+      28,
+      28
+    ],
+    "grayscale": true,
+    "invert_if_dark": true
+  }
+}

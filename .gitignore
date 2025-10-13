@@ -1,0 +1,71 @@
+# =========================
+# Python / TensorFlow Project
+# =========================
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# Model files (large / generated)
+*.h5
+*.keras
+*.tflite
+*.pb
+*.ckpt
+*.onnx
+*.weights
+*.pkl
+*.joblib
+
+# TensorBoard logs
+logs/
+events.out.tfevents.*
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build / distribution files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Flask / temporary data
+instance/
+*.log
+*.sqlite3
+*.db
+
+# VSCode / IDE files
+.vscode/
+.idea/
+*.swp
+
+# Local testing / generated folders
+__results__/
+outputs/
+checkpoints/
+saved_models/
+runs/
+data/
+tmp/
+temp/
+
+# OS metadata (Mac / Windows)
+*.bak
+*.tmp
+*.old
+*.orig

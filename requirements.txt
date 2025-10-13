@@ -1,0 +1,7 @@
+tensorflow
+flask
+numpy
+opencv-python
+pillow
+pandas
+certifi
