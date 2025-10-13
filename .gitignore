@@ -69,3 +69,9 @@ temp/
 *.tmp
 *.old
 *.orig
+
+
+# Large files
+train.csv
+tfjs-env/
+test.csv
