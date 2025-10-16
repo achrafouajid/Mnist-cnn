@@ -14,7 +14,4 @@ The model is trained on the MNIST dataset using a Convolutional Neural Network (
 ✅ Auto model training if no saved model is found  
 ✅ Ready to deploy on any Python/Flask server (works on macOS, Linux, or Windows)
 
----
-
-## 🏗️ Project Structure
 
