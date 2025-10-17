@@ -9,7 +9,6 @@ The model is trained on the MNIST dataset using a Convolutional Neural Network (
 
 ✅ CNN model trained on MNIST with ensemble averaging (for better generalization)  
 ✅ Preprocessing pipeline that adapts real images (cropping, centering, inverting, resizing)  
-✅ REST API with `/predict_digit` endpoint accepting base64-encoded images  
 ✅ Test client script for local testing  
 ✅ Auto model training if no saved model is found  
 ✅ Ready to deploy on any Python/Flask server (works on macOS, Linux, or Windows)
