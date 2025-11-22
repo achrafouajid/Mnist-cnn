@@ -1,6 +1,6 @@
 # 🧠 MNIST Handwritten Digit Recognition API
 
-A lightweight Flask API for recognizing handwritten digits (0–9) drawn on a phone, tablet, or web canvas.  
+A lightweight Flask API for recognizing handwritten digits (0–9).  
 The model is trained on the MNIST dataset using a Convolutional Neural Network (CNN) and enhanced preprocessing to handle **real-world, thick-stroke digits** drawn by users.
 
 ---
